@@ -1,0 +1,28 @@
+body {
+    background-color: #EAF6F6;
+}
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color:grey;
+    width: 5%;
+    border-width: 5px;
+}
+.title{
+    color : #417D7A;
+}
+h1{
+    color: #66BFBF;
+}
+h3 {
+    color: #AC7D88;   
+}
+.edu{
+    border-style: inset;
+    border-color:white;
+    border: 1px solid;
+    border-collapse: collapse;
+    text-align: center;
+
+    background-color:#defef9;
+}
